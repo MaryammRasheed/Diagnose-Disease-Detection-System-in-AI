@@ -1,0 +1,5 @@
+Patient ID,Age,Gender,Symptoms,Disease
+1,35,Male,"Fever, Cough",Flu
+2,27,Female,"Headache, Nausea",Migraine
+3,50,Male,"Chest pain, Dizziness",Heart Attack
+4,40,Female,"Shortness of breath, Fever",Pneumonia
